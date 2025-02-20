@@ -15,7 +15,7 @@ I'm a **Computer Science and Design student** passionate about **Human-Computer 
 ### 🏆 Publications
 - [Overcoming Public Speaking Anxiety using Virtual Reality Exposure Therapy](https://dl.acm.org/doi/abs/10.1145/3698141) - ACM
 - [Enhancing Dining Experiences with Augmented Reality and Olfactory Technology](https://link.springer.com/chapter/10.1007/978-3-031-80832-6_15) - Springer
-- [AI-driven Assistive Technologies](https://link.springer.com/chapter/10.1007/978-3-031-80832-6_18) - Springer
+- [ARoma: Augmented Reality Olfactory Menu Application](https://link.springer.com/chapter/10.1007/978-3-031-80832-6_18) - Springer
 
 📖 **Check out my Scholar Profile:** [Google Scholar](https://scholar.google.com/citations?user=0uMgMooAAAAJ&hl=en&oi=ao)
 
